@@ -1,0 +1,6 @@
+@websale_webAPI_HostAddress = http://localhost:5227
+
+GET {{websale_webAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
